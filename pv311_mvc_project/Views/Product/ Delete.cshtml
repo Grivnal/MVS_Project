@@ -1,0 +1,31 @@
+@model Product
+
+<div style="width: 40%; margin: 0px auto; background-color: lightgoldenrodyellow; border-radius: 5px; padding: 10px; border: 2px solid black;">
+    <h1 style="text-align: center;">Видалення товару</h1>
+    <form asp-action="Delete" method="post" style="padding: 15px;">
+        <input asp-for="Image" type="text" hidden />
+        <div class="form-group">
+            <label for="name">Назва</label>
+            <input asp-for="Name" type="text" class="form-control" placeholder="Введіть ім'я" disabled>
+        </div>
+        <div class="form-group">
+            <label for="description">Опис</label>
+            <input asp-for="Description" type=" text" class="form-control" placeholder="Введіть опис" disabled>
+        </div>
+        <div class="form-group">
+            <label for="price">Ціна</label>
+            <input asp-for="Price" type="number" class="form-control" placeholder="Введіть ціну" disabled>
+        </div>
+        <div class="form-group">
+            <label for="amount">Кількість</label>
+            <input asp-for="Amount" type="number" class="form-control" placeholder="Введіть кількість" disabled>
+        </div>
+        <div class="form-group" style="text-align: center;">
+            <img width="200" alt="@Model.Name" src="~/images/products/@(Model.Image ?? "productDefault.png")" />
+        </div>
+        <div style="text-align: center; padding-top: 10px;">
+            <input type="submit" value="Видалити" class="btn btn-success" />
+            <a class="btn btn-dark" asp-action="Index">Повернутися</a>
+        </div>
+    </form>
+</div>

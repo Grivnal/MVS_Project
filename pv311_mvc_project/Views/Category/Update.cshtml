@@ -1,0 +1,22 @@
+@model Category
+
+<div style="width: 40%; margin: 0px auto; background-color: lightgoldenrodyellow; border-radius: 5px; padding: 10px; border: 2px solid black;">
+    <h1 style="text-align: center;">Редагування категорії</h1>
+    <form asp-action="Update" method="post">
+        <div class="row g-3 align-items-center" style="display: flex; justify-content: center;">
+            <div class="col-auto">
+                <label for="name" class="col-form-label">Назва</label>
+            </div>
+            <div class="col-auto">
+                <input type="text" class="form-control" asp-for="Name">
+            </div>
+            <div class="text-center col-auto">
+                <span class="form-error" asp-validation-for="Name"></span>
+            </div>
+        </div>
+        <div style="text-align: center; padding-top: 10px;">
+            <input type="submit" value="Зберегти" class="btn btn-success" />
+            <a class="btn btn-dark" asp-action="Index">Повернутися</a>
+        </div>
+    </form>
+</div>

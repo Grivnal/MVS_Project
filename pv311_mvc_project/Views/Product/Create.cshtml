@@ -1,0 +1,36 @@
+@model CreateProductVM
+
+<div style="width: 40%; margin: 0px auto; background-color: lightgoldenrodyellow; border-radius: 5px; padding: 10px; border: 2px solid black;">
+    <h1 style="text-align: center;">Створення нового товару</h1>
+    <form asp-action="Create" enctype="multipart/form-data" method="post" style="padding: 15px;">
+        <div class="form-group">
+            <label for="name">Назва</label>
+            <input asp-for="Product.Name" type="text" class="form-control" placeholder="Введіть ім'я">
+        </div>
+        <div class="form-group">
+            <label for="description">Опис</label>
+            <textarea asp-for="Product.Description" id="tinyeditor"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="price">Ціна</label>
+            <input asp-for="Product.Price" type="number" class="form-control" placeholder="Введіть ціну">
+        </div>
+        <div class="form-group">
+            <label for="amount">Кількість</label>
+            <input asp-for="Product.Amount" type="number" class="form-control" placeholder="Введіть кількість">
+        </div>
+        <div class="form-group">
+            <label for="image">Зображення</label>
+            <input asp-for="File" type="file" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="category">Категорія</label>
+            <select class="form-select" asp-for="Product.CategoryId" asp-items="@Model.Categories">
+            </select>
+        </div>
+        <div style="text-align: center; padding-top: 10px;">
+            <input type="submit" value="Створити" class="btn btn-success" />
+            <a class="btn btn-dark" asp-action="Index">Повернутися</a>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,259 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = pv311_mvc_project
+build_property.RootNamespace = pv311_mvc_project
+build_property.ProjectDir = /workspaces/MVS_Project/pv311_mvc_project/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /workspaces/MVS_Project/pv311_mvc_project
+build_property._RazorSourceGeneratorDebug = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvQ29uZmlybUVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/ConfirmEmailChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvQ29uZmlybUVtYWlsQ2hhbmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/ExternalLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvRXh0ZXJuYWxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvRm9yZ290UGFzc3dvcmRDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTG9ja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/LoginWith2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTG9naW5XaXRoMmZhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/LoginWithRecoveryCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTG9naW5XaXRoUmVjb3ZlcnlDb2RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0NoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/DeletePersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0RlbGV0ZVBlcnNvbmFsRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/Disable2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0Rpc2FibGUyZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0Rvd25sb2FkUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0VtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0VuYWJsZUF1dGhlbnRpY2F0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/ExternalLogins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0V4dGVybmFsTG9naW5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0dlbmVyYXRlUmVjb3ZlcnlDb2Rlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/PersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL1BlcnNvbmFsRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL1Jlc2V0QXV0aGVudGljYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL1NldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL1Nob3dSZWNvdmVyeUNvZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL1R3b0ZhY3RvckF1dGhlbnRpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL19NYW5hZ2VOYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL19TdGF0dXNNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvTWFuYWdlL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvUmVnaXN0ZXJDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvUmVzZW5kRW1haWxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvUmVzZXRQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvX1N0YXR1c01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0FjY291bnQvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/_ValidationScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL19WYWxpZGF0aW9uU2NyaXB0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/_Viewlmports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL19WaWV3bG1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Areas/Indentity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSW5kZW50aXR5L1BhZ2VzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Home/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Home/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Product/ Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC8gRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MVS_Project/pv311_mvc_project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nnnnyz80jv
